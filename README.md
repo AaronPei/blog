@@ -5,3 +5,6 @@
 
 ### OpenStack相关笔记
 [Cloud init入门](https://github.com/AaronPei/blog/wiki/Cloud-init%E5%85%A5%E9%97%A8)
+
+#### Ceph相关
+[ceph故障排除:"rbd: error: image still has watchers"](https://github.com/AaronPei/blog/wiki/Ceph:%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4)
